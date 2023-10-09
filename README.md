@@ -1,4 +1,9 @@
 # Balanced Bot with CartPole-DQN 🤸🤖
+In the following video scenario a disturbance was added to make it harder to balance
+<p align="center">
+  <img src="https://media.giphy.com/media/yuQaPwkGHYu5MIvMAv/giphy.gif" alt="CartPole Demo"/>
+</p>
+
 
 Hello and welcome! Dive into the world of reinforcement learning with the `CartPole-DQN` repository. Here, we've built an AI agent capable of mastering the classic CartPole game from OpenAI Gym. Harnessing deep learning, our bot perfects the art of balancing. 🌌
 
